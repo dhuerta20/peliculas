@@ -1,0 +1,6 @@
+[0310/202311.420:ERROR:crash_report_database_win.cc(585)] GetFileAttributes C:\Users\dihuer1\AppData\Local\Temp\karma-20939441\Crashpad: El sistema no puede encontrar el archivo especificado. (0x2)
+[0310/202451.483:ERROR:crash_report_database_win.cc(585)] GetFileAttributes C:\Users\dihuer1\AppData\Local\Temp\karma-84049011\Crashpad: El sistema no puede encontrar el archivo especificado. (0x2)
+[0310/202501.323:ERROR:crash_report_database_win.cc(585)] GetFileAttributes C:\Users\dihuer1\AppData\Local\Temp\karma-84049011\Crashpad: El sistema no puede encontrar el archivo especificado. (0x2)
+[0310/202503.841:ERROR:crash_report_database_win.cc(585)] GetFileAttributes C:\Users\dihuer1\AppData\Local\Temp\karma-84049011\Crashpad: El sistema no puede encontrar el archivo especificado. (0x2)
+[0310/202640.028:ERROR:crash_report_database_win.cc(585)] GetFileAttributes C:\Users\dihuer1\AppData\Local\Temp\karma-21150103\Crashpad: El sistema no puede encontrar el archivo especificado. (0x2)
+[0310/202643.458:ERROR:crash_report_database_win.cc(585)] GetFileAttributes C:\Users\dihuer1\AppData\Local\Temp\karma-21150103\Crashpad: El sistema no puede encontrar el archivo especificado. (0x2)
